@@ -1,3 +1,3 @@
 def instantiate_new_array
- return new.array
+@my_new_array = instantiate_new_arrayy
 end
